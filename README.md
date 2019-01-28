@@ -6,3 +6,5 @@ PUSH:0
 
 Number of commits to the repository
 COMMIT:0
+
+PRE-RECEIVE test
